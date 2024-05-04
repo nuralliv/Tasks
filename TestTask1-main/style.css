@@ -169,10 +169,6 @@
             text-align: center;
         }
 
-        header .shopping span {
-            left: 65%;
-        }
-
         .list {
             grid-template-columns: repeat(2, 1fr);
         }
